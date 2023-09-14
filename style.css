@@ -5,7 +5,7 @@ h1{
 }
 body{
     background-image: url("fundodesite.jpg");
-    position: static;
+    background-repeat: no-repeat;
 }
 .fundosite {
     width: 1000px;
