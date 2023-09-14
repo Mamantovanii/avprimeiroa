@@ -4,6 +4,10 @@ h1{
     color: black;
 }
 body{
-    background-image: url();
+    background-image: url("f");
     position: absolute;
 }
+.fundosite {
+    width: 1000px;
+    height: 1000px;
+ }
