@@ -1,1 +1,14 @@
-
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: black;
+}
+body{
+    background-image: url(fundosite.jpg);
+    position: absolute;
+}
+.fundosite {
+    width: 1000px;
+    height: 1000px;
+ }
+    
