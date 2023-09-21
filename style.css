@@ -6,6 +6,7 @@ h1{
 body{
     background-image: url("fundodesite.jpg");
     background-repeat: no-repeat;
+    background-size: 100cm;
 }
 .fundosite {
     width: 1000px;
