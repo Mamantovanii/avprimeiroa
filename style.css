@@ -7,6 +7,7 @@ body{
     background-image: url("fundodesite.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: cover;
 }
 .fundosite {
     width: 1000px;
